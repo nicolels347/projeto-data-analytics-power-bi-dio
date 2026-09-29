@@ -1,28 +1,18 @@
 PROJETO DE DATA ANALYTICS COM POWER BI — DIO
 
-O pacote contém a documentação e a estrutura do repositório prontas para o GitHub.
+Pacote preparado para publicação no GitHub.
 
-ARQUIVO POWER BI
-O arquivo oficial Relatório Criativo é fornecido pela DIO neste endereço:
-https://hermes.dio.me/files/assets/7107b111-0651-436c-a49d-1d340d218db9.pbix
+Arquivo principal incluído:
+power-bi/Relatorio_Criativo_Nicole_Lopes.pbix
 
-O servidor da DIO entrega esse arquivo como conteúdo binário e ele não pôde ser incorporado automaticamente neste pacote.
-
-PARA FINALIZAR O PROJETO:
-1. Baixe o Relatório Criativo pelo link acima.
-2. Abra o arquivo no Power BI Desktop.
-3. Faça as alterações/melhorias solicitadas no desafio.
-4. Salve como Relatorio_Criativo_Nicole_Lopes.pbix.
-5. Coloque o arquivo na pasta power-bi/.
-6. Exporte ou tire screenshots das páginas e coloque em assets/screenshots/.
-7. Envie todos os arquivos desta pasta para um repositório público no GitHub.
-8. Entregue a URL do repositório na plataforma DIO.
-
-SUGESTÃO DE NOME DO REPOSITÓRIO:
+Sugestão de repositório:
 projeto-data-analytics-power-bi-dio
 
-DESCRIÇÃO PARA O GITHUB:
-Projeto de Data Analytics com Power BI desenvolvido como desafio prático da DIO, com relatório interativo, análise de indicadores e documentação para portfólio.
+Descrição:
+Projeto de Data Analytics com Power BI desenvolvido como desafio prático da DIO, com análise de dados, indicadores e visualizações interativas.
 
-DESCRIÇÃO PARA ENTREGA NA DIO:
-Projeto desenvolvido como parte do desafio Projeto de Data Analytics com Power BI da DIO. A entrega reúne a documentação do relatório, estrutura do projeto, referências utilizadas e organização dos artefatos para apresentação no GitHub, aplicando conceitos de análise de dados, visualização, Power Query e DAX.
+Para entregar:
+1. Extraia o ZIP.
+2. Envie o conteúdo da pasta do projeto ao repositório do GitHub.
+3. Confirme que o README.md e a pasta power-bi aparecem no repositório.
+4. Copie a URL do repositório e envie na plataforma DIO.

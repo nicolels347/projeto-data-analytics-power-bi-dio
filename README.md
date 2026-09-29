@@ -54,7 +54,7 @@ Projeto_Data_Analytics_Power_BI_DIO_Nicole/
   https://hermes.dio.me/files/assets/7107b111-0651-436c-a49d-1d340d218db9.pbix
 
 ## Como visualizar
-O arquivo `.pbix` deve ser aberto no Microsoft Power BI Desktop. As imagens do relatório podem ser adicionadas em `assets/screenshots/` para facilitar a visualização do projeto diretamente pelo GitHub.
+O arquivo principal está disponível em `power-bi/Relatorio_Criativo_Nicole_Lopes.pbix` e pode ser aberto no Microsoft Power BI Desktop. As imagens do relatório podem ser adicionadas em `assets/screenshots/` para facilitar a visualização diretamente pelo GitHub.
 
 ## Autoria
 Nicole Lopes
